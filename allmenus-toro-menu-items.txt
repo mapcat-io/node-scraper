@@ -1,0 +1,140 @@
+Fiesta Platter; Description: nachos, garlic prawns, chicken flauta, corn quesadilla, grilled onions, guacamole, sour cream & salsa
+Guacamole & Chips; Description: 
+Famosa Salsa & Chips; Description: 
+Killer Refried 'N' Cheese; Description: with chips
+Torta; Description: choice of meat, cheese, lettuce, tomato & salsa
+Torta Ahogada; Description: smothered in a speacial hot sauce
+Avocado Caesar; Description: 
+Chicken Caesar; Description: 
+Chicken & Avocado Cesar; Description: 
+Grilled Prawn Caesar; Description: 
+Chicken & Prawn Salad; Description: 
+Carne Asada; Description: flame broiled steak
+Chicken Asada; Description: flame broiled chicken
+Carnitas; Description: roast pork
+Al Pastor; Description: marinated bbq pork
+Spicy Chicken; Description: red sauce
+Tofu Ranchero; Description: soy bean cake
+Steak Fajitas; Description: grilled peppers & onions
+Chicken Flautas; Description: grilled peppers & onions
+A. Beans, Rice & Salsa; Description: 
+B. Beans, Rice, Cheese & Salsa; Description: 
+C. Beans, Rice, Lettuce; Description: tomato & salsa
+D. Beans, Rice, Avocado; Description: lettuce, tomato & salsa
+E. Super Vegetarian; Description: rice, bean, cheese, guacamole, sour cream, lettuce, tomato & salsa
+F. Chile Relleno; Description: rice, beans, salsa
+G. Tofu Ranchero; Description: rice, beans & salsa
+H. Grilled Vegetables; Description: rice, beans & salsa
+K. Beans, Cheese & Salsa; Description: 
+Regular; Description: meat, rice, beans & salsa
+Deluxe; Description: meat, rice, beans, cheese & salsa
+Especial; Description: meat, rice, beans, cheese, guacamole & salsa
+Super; Description: meat, rice, beans, cheese, guacamole, sour cream , lettuce, tomato & salsa
+Baby Burrito; Description: small slaw, rice, beans and salsa
+Pura Carne; Description: aii roast & salsa
+Make It Super; Description: 
+Make It Mojado; Description: 
+Prawn; Description: rice, beans & salsa
+Red Snapper; Description: rice, bean, salsa
+Steak & Prawn; Description: rice, bean, & salsa
+Grilled Salmon; Description: rice, bean & salsa
+Cheese; Description: 
+Sour Cream; Description: 
+Guacamole; Description: 
+Avocado Slices; Description: 
+Prawns each; Description: 
+Vegetables; Description: 
+Garlic Mushrooms; Description: 
+Beans; Description: 
+Rice; Description: 
+Meat with Soup; Description: 
+Lettuce; Description: 
+Tomato .35; Description: 
+Tortillas; Description: 
+Salsa; Description: 
+Prawn Taco; Description: prawns, lettuce & salsa
+Fish Huachinango; Description: fish lettuce & salsa
+Grilled Salmon; Description: salmon, lettuce & salsa
+Rice, Beans & Salsa Taco; Description: 
+Tofu Taco; Description: beans, tofu & salsa
+Vegetables Taco; Description: beans veggies & salsa
+Super Vegetarian Taco; Description: beans, cheese, guacamole, sour cream, lettuce, tomato & salsa
+Taco; Description: beans, meat & salsa
+Taco Deluxe; Description: beans, meat, cheese & salsa
+Taco Especial; Description: beans, meat, cheese, guacamole & salsa
+Super Taco; Description: meat, beans, cheese, guacamole, sour cream lettuce, tomato & salsa
+3 Tacos Deal; Description: beans, meat & salsa
+Make It Super; Description: add cheese, guacamole, sour cream, lettuce & tomato
+Make It Dinner; Description: add rice, beans, salami & tortillas
+Corn; Description: 
+Flour; Description: 
+Suiza; Description: 
+Super; Description: 
+Garlic; Description: 
+Garden; Description: 
+Praman; Description: 
+Steak; Description: 
+Carne Asada; Description: broiled steak
+Pollo Asado; Description: broiled chicken
+Carnitas; Description: pork meat
+Al Pastor BBQ; Description: pork
+Spicy Chicken; Description: red sauce
+Tofu Ranchero; Description: soy bean cake
+Grilled Vegetables Dnr; Description: 
+Quesadilla Suiza Dnr; Description: 
+Taco Dinner; Description: 2 tacos
+Garlic Prawns; Description: al mojo de ajo
+Hot & Spicy Prawns; Description: al chile de arbol
+Chipotle Prawns; Description: al chile chipotle
+Fajitas Prawns; Description: 
+Huachinango Snapper; Description: a la plancha
+Salmon; Description: a la plancha
+Prawns Cocktail; Description: 
+Garlic Prawns Tostada; Description: 
+#1. Enchilada Flauta & Chile Relleno; Description: 
+#2. Tamale, Flauta & Garlic Prawns; Description: 
+#3. Corn Quesadilla, Prawns & Steak Taco; Description: 
+#4. Asada Steak & Garlic Prawns; Description: 
+#5. Carne Asada, Chicken Asada & Prawns; Description: 
+#6. Spicy Chicken, Garlic Prawns & Enchilada; Description: 
+#7. Quesadilla Suiza; Description: garlic prawns & mushroom
+#8. Garlic Prawns; Description: steak taco, enchilada & asada
+#9. Asada Steak; Description: garlic prawns & grilled salmon
+Small; Description: 
+Medium; Description: 
+Large; Description: 
+X-Large; Description: 
+Soda; Description: 
+Bottle Water; Description: 
+Snapple; Description: 
+Jarritos; Description: 
+Penafiel; Description: 
+Mexican; Description: coke
+Oragnina; Description: 
+Calistoga; Description: 
+Arizona; Description: 
+S.O.B.E; Description: 
+O.J Apple Juice; Description: 
+Domestic Beer; Description: 
+Imported Beer; Description: 
+Rice; Description: 
+Beans; Description: 
+Salsa; Description: 
+Cheese; Description: 
+Guacamole; Description: 
+Sour Cream; Description: 
+Meat; Description: 
+Tofu; Description: 
+Grilled Vegetales; Description: 
+Mushrooms Grilled; Description: with garlic
+Lettuse or Tomato; Description: 
+Jalapenos; Description: 
+Cebollitas; Description: grilled green onions
+Tamales Each; Description: 
+Enchiladas Each; Description: 
+Chile Relleno One/solo; Description: 
+Flauta Each; Description: 
+Chips; Description: 
+Churro; Description: 
+Alfazor; Description: 
+Flan; Description: 
