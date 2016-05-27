@@ -7,7 +7,7 @@ var jsonfile = require('jsonfile')
 var file = './data/data.json'
 
 var obj = [];
-var url = 'http://san-francisco.eat24hours.com/curry-up-now/23091'
+var url = 'http://san-francisco.eat24hours.com/la-oaxaquena/45738'
 var domain = 'http://san-francisco.eat24hours.com'
 
 request(url, function(error, response, body) {
@@ -22,13 +22,12 @@ request(url, function(error, response, body) {
     var item = $(this).find('a.cpa').text().trim();
     var description = $(this).find('.item_desc').text().trim();
     var image = $(this).find('.item_img').attr('src');
-    //console.log("Name: " + item + '; Description: ' + description );
+    console.log("Name: " + item + '; Description: ' + description );
     obj.push({
       "name": item,
       "description": description,
       "image": domain + image
     });
-    fs.appendFileSync('result.txt', item + '; Description: ' + description + '\n');
   });
 
   jsonfile.writeFile(file, obj, function (err) {
