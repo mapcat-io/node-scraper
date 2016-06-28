@@ -7,7 +7,7 @@ var jsonfile = require('jsonfile')
 var file = './data/data.json'
 
 var obj = [];
-var url = 'http://places.singleplatform.com/el-castillito-2/menu'
+var url = 'http://places.singleplatform.com/aster-2/menu'
 var domain = 'http://places.singleplatform.com'
 
 request(url, function(error, response, body) {
@@ -18,9 +18,9 @@ request(url, function(error, response, body) {
 
   var $ = cheerio.load(body);
 
-  $('.title-row').each(function( index ) {
+  $('.item').each(function( index ) {
     var item = $(this).find('h4.title').text().trim();
-    var description = $(this).find('.description text').text().trim();
+    var description = $(this).find('.description.text').text().trim();
     console.log("Name: " + item + '; Description: ' + description );
     obj.push({
       "name": item,

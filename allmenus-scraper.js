@@ -7,7 +7,7 @@ var jsonfile = require('jsonfile')
 var file = './data/data.json'
 
 var obj = [];
-var url = 'http://www.allmenus.com/ca/san-francisco/282300-la-oaxaquena-bakery/menu/'
+var url = 'http://www.allmenus.com/ca/san-francisco/63232-wan-kee-restaurant/menu/'
 var domain = 'http://www.allmenus.com'
 
 request(url, function(error, response, body) {

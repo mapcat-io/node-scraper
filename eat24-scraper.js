@@ -7,7 +7,7 @@ var jsonfile = require('jsonfile')
 var file = './data/data.json'
 
 var obj = [];
-var url = 'http://san-francisco.eat24hours.com/la-oaxaquena/45738'
+var url = 'http://san-francisco.eat24hours.com/hoffmann-s-grill-rotisserie/37633'
 var domain = 'http://san-francisco.eat24hours.com'
 
 request(url, function(error, response, body) {
