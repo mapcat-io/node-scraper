@@ -6,33 +6,22 @@ var jsonfile = require('jsonfile');
 
 // SCRAPER SITE VARIABLES
 var file = './data/data.json',
-    url = 'http://san-francisco.eat24hours.com/curry-up-now/23091',
-    domain = 'http://san-francisco.eat24hours.com';
+    url = 'https://locu.com/places/revolution-cafe-san-francisco-us/#menu',
+    domain = 'https://locu.com';
 
 // SCRAPER PAGE LEVEL VARIABLES
-var container = 'table.item';
+var container = '.locu-menu-item';
 var elements = [
       {
         "type": "text",
         "name": "item",
-        "el": "a.cpa",
+        "el": ".locu-menu-item-name",
       },
       {
         "type": "text",
         "name": "description",
-        "el": ".item_desc",
+        "el": ".locu-menu-item-description",
       },
-      {
-        "type": "attr",
-        "attr": "src",
-        "name": "image",
-        "el": ".item_img",
-      },
-      {
-        "type": "text",
-        "name": "price",
-        "el": ".item_price span",
-      }
     ];
 
 
